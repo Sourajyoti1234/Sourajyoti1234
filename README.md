@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourajyoti
-- 👀 I’m interested in Web designing, Frontend Web development,Python Programming, Machine Learning, Problem Solving
+- 👀 I’m interested in Full stack web development => React, Node, Express and Mongo DB
 - 🌱 I’m currently learning Web Development and ML
 - 💞️ I’m looking to collaborate on DSA-Problem Solving and Web dev too!
 - 📫  
